@@ -7,7 +7,7 @@ function App() {
     <>
       <Navbar />
       <div className='container'>
-        <Text heading="Enter any text here:"/>
+        {/* <Text heading="Enter any text here:"/> */}
       </div>
     </>
   );
