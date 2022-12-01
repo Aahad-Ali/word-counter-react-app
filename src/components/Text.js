@@ -19,6 +19,8 @@ export default function Textarea(props) {
     let newTextL = text.toLocaleLowerCase();
     setText(newTextL);
   }
+  // ===============================remove extra spaces function ============================
+  
 
   // =============================== on change function ============================
 
